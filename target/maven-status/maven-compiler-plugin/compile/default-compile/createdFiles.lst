@@ -1,0 +1,13 @@
+com\GestionClient\Repositories\HotelRepository.class
+com\GestionClient\Services\ClientService.class
+com\GestionClient\Services\HotelServiceImpl.class
+com\GestionClient\entities\Hotel.class
+com\GestionClient\Controller\HotelRestController.class
+com\GestionClient\Services\ClientServiceImpl.class
+com\GestionClient\entities\Client.class
+com\GestionClient\Repositories\ClientRepository.class
+com\GestionClient\Services\HotelService.class
+com\GestionClient\Controller\ClientRestController.class
+com\GestionClient\models\HotelModel.class
+com\GestionClient\GestionClientHotelApplication.class
+com\GestionClient\models\ClientModel.class
